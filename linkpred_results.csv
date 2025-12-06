@@ -1,0 +1,5 @@
+,AUC,Precision@50
+Adamic-Adar,0.75,0.08
+Jaccard,1.0,0.08
+Preferential Attachment,0.5,0.08
+Resource Allocation,0.75,0.08
